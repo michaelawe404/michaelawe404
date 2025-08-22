@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I'm Michael Awe 👋  
+💻 MSc Cybersecurity & Ethical Hacking (Graduating 2025)  
+🔒 Aspiring SOC Analyst | Penetration Tester | GRC Enthusiast  
+🛠️ Skills: Python | Linux | Networking | SIEM | Threat Hunting | Vulnerability Testing  
+📚 Currently: Building labs on TryHackMe, Hackthebox, and documenting cybersecurity projects  
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/michaelawe404) | GitHub  
 
 <!--
 **michaelawe404/michaelawe404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
