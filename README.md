@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Michael Awe 👋  
+# Hi there 👋, I'm Michael Awe 👋  
 💻 MSc Cybersecurity & Ethical Hacking (Graduating 2025)  
 🔒 Aspiring SOC Analyst | Penetration Tester | GRC Enthusiast  
 🛠️ Skills: Python | Linux | Networking | SIEM | Threat Hunting | Vulnerability Testing  
