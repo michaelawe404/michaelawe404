@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Michael Awe 👋  
-💻 MSc Cybersecurity & Ethical Hacking (Graduating 2025)  
-🔒 Aspiring SOC Analyst | Penetration Tester | GRC Enthusiast  
-🛠️ Skills: Python | Linux | Networking | SIEM | Threat Hunting | Vulnerability Testing  
+💻 MSc Cybersecurity & Ethical Hacking   
+🔒 SOC Analyst | Incident Response
+🛠️ Skills: Linux  | SIEM | Threat Detection | Incident Response | Compliance 
 📚 Currently: Building labs on TryHackMe, Hackthebox, and documenting cybersecurity projects  
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/michaelawe404) | GitHub  
 
